@@ -6,12 +6,16 @@
 
 2) git clone to local computer
 
-3) git branch to see what branch you are in 
+3) git branch to see what branch you are in
 
-4) git checkout to switch between branches but here to create a new branch type git checkout -b nameofbranch
+4) git branch checkout -b nameofbranch to create branch. git checkout nameofbranch to switch between branches
 
-5)To switch between branches type git checkout nameofbranch
+5) Edit README.md in develop, git add, commit, push in develop
 
-6) Edit the README.md file while being in develop add, commit, push in the same way to update changes in develop branch.
+6) Compare and pull request
 
+7) Add comments to the code changed by clicking on + beside the code line when you click on the commits
 
+8) Merge pull request
+
+9) All changes in develop has been updated in main.
