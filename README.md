@@ -19,3 +19,5 @@
 8) Merge pull request
 
 9) All changes in develop has been updated in main.
+
+10) To delete the develop branch type git branch -d nameofbranch 
